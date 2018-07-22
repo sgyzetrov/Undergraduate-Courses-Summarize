@@ -2,7 +2,7 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-This is a link navigation to some of my undergraduate courses' class summarizes, written in Chinese.
+This is a link navigation to all my undergraduate courses' class summarizes hosted on GitHub, written in Chinese.
 
 ## LICENSE
 
