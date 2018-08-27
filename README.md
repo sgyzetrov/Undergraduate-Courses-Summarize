@@ -36,4 +36,4 @@ SOFTWARE.
 
 | [Computer Network A] | [Software Testing and QA] | [IoT Intro] | [Principle of Compiler] |
 | :---------: | :---------: | :---------: | :---------: |
-| [click](https://github.com/sgyzetrov/Computer-Network-Summarize/blob/master/README.md)|[click](https://github.com/sgyzetrov/Software-Testing-Summarize/blob/master/README.md)|[click](https://github.com/sgyzetrov/IoT-Intro-Summarize/blob/master/README.md)|[click](https://github.com/sgyzetrov/Principle-of-Compiler-Summarize/blob/master/README.md)|
+| [README](https://github.com/sgyzetrov/Computer-Network-Summarize/blob/master/README.md)|[README](https://github.com/sgyzetrov/Software-Testing-Summarize/blob/master/README.md)|[README](https://github.com/sgyzetrov/IoT-Intro-Summarize/blob/master/README.md)|[README](https://github.com/sgyzetrov/Principle-of-Compiler-Summarize/blob/master/README.md)|
