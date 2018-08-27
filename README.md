@@ -1,8 +1,14 @@
-# Undergraduate-Courses-Summarize
+<img align="center" src="./HZAU-120th.gif" alt="College of Infomatics, HZAU" />
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+<h1 align="center">
+  Undergraduate Courses Summarize
+ </h1>
 
-This is a link navigation to all my undergraduate courses' class summarizes hosted on GitHub, written in Chinese.
+<h4 align="center">A navigation to all my undergraduate courses' class summarizes hosted on GitHub, written in Chinese.</h4>
+
+<p align="center">
+<a href="https://opensource.org/licenses/mit-license.php"><img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103" alt="MIT Licence"/></a>
+</p>
 
 ## LICENSE
 
